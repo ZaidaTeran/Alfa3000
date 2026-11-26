@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b3264"/><stop offset="1" stop-color="#071a35"/></linearGradient><linearGradient id="wire" x2="0" y2="1"><stop stop-color="#ffc84a"/><stop offset=".5" stop-color="#e7444d"/><stop offset="1" stop-color="#4ab7ff"/></linearGradient></defs>
+  <rect width="1600" height="900" fill="url(#bg)"/><path d="M1000 0h600v900H870z" fill="#fff" opacity=".035"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M1000 900C970 700 1160 680 1060 510S1120 270 1260 0" stroke="#ffc84a" stroke-width="34" opacity=".8"/>
+    <path d="M1150 900c-40-210 160-300 30-470S1280 210 1410 0" stroke="#e7444d" stroke-width="34" opacity=".88"/>
+    <path d="M1300 900c-30-240 170-310 70-490S1430 210 1550 0" stroke="#56b8ff" stroke-width="34" opacity=".8"/>
+    <path d="M1000 900C970 700 1160 680 1060 510S1120 270 1260 0M1150 900c-40-210 160-300 30-470S1280 210 1410 0M1300 900c-30-240 170-310 70-490S1430 210 1550 0" stroke="#fff" stroke-width="3" opacity=".5"/>
+  </g>
+  <g transform="translate(760 300)" fill="none" stroke="#b8d9ff">
+    <circle cx="0" cy="0" r="205" stroke-width="2" opacity=".25"/><circle cx="0" cy="0" r="145" stroke-width="2" opacity=".3"/>
+    <path d="M-220 0h440M0-220v440" stroke-width="2" opacity=".3"/>
+    <path d="M5-115 70-15H25l-30 135-68-110h47z" fill="#e7444d" stroke="#ff7279" stroke-width="7"/>
+  </g>
+  <g transform="translate(590 690)" fill="#d9eaff" font-family="Arial"><text font-size="25" font-weight="700" letter-spacing="5">ENERGÍA EN MOVIMIENTO</text><path d="M0 27h270" stroke="#e7444d" stroke-width="5"/></g>
+  <g fill="none" stroke="#83b9f4" stroke-width="2" opacity=".25"><path d="M0 120h500M0 160h380M0 200h300M520 0v220"/></g>
+</svg>

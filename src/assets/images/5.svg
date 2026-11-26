@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071b3a"/><stop offset="1" stop-color="#155591"/></linearGradient><linearGradient id="panel" x2="1" y2="1"><stop stop-color="#f3f7fb"/><stop offset="1" stop-color="#9eb0c3"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="20" stdDeviation="20" flood-opacity=".42"/></filter></defs>
+  <rect width="1600" height="900" fill="url(#bg)"/><circle cx="1300" cy="290" r="310" fill="#6fb5ff" opacity=".08"/>
+  <g opacity=".15" stroke="#b5d7ff" fill="none"><path d="M750 0v900m90-900v900m90-900v900m90-900v900m90-900v900m90-900v900"/><path d="M720 170h700M720 260h700M720 350h700M720 440h700"/></g>
+  <g filter="url(#shadow)" transform="translate(930 170)">
+    <rect width="410" height="535" rx="20" fill="url(#panel)"/><rect x="24" y="24" width="362" height="487" rx="12" fill="#e7edf4"/>
+    <rect x="48" y="48" width="314" height="52" rx="6" fill="#0a3268"/><text x="205" y="81" text-anchor="middle" fill="white" font-family="Arial" font-size="18" font-weight="700" letter-spacing="3">PROTECCIÓN ELÉCTRICA</text>
+    <g transform="translate(52 128)">
+      <rect width="306" height="152" rx="9" fill="#c8d4e1"/>
+      <g transform="translate(18 18)"><rect width="75" height="116" rx="7" fill="#193b67"/><rect x="16" y="14" width="43" height="59" rx="4" fill="#eff5fb"/><rect x="28" y="25" width="20" height="29" rx="3" fill="#77baff"/><circle cx="38" cy="95" r="6" fill="#e7444d"/></g>
+      <g transform="translate(115 18)"><rect width="75" height="116" rx="7" fill="#193b67"/><rect x="16" y="14" width="43" height="59" rx="4" fill="#eff5fb"/><rect x="28" y="25" width="20" height="29" rx="3" fill="#77baff"/><circle cx="38" cy="95" r="6" fill="#e7444d"/></g>
+      <g transform="translate(212 18)"><rect width="75" height="116" rx="7" fill="#193b67"/><rect x="16" y="14" width="43" height="59" rx="4" fill="#eff5fb"/><rect x="28" y="25" width="20" height="29" rx="3" fill="#77baff"/><circle cx="38" cy="95" r="6" fill="#e7444d"/></g>
+    </g>
+    <rect x="52" y="302" width="306" height="172" rx="9" fill="#d0dbe7"/>
+    <path d="M78 335h254M78 371h254M78 407h254M78 443h254" stroke="#8297ae" stroke-width="8" stroke-linecap="round"/>
+    <path d="M78 335h144m-144 36h215m-215 36h100m-100 36h190" stroke="#1265c5" stroke-width="4"/>
+    <circle cx="340" cy="72" r="6" fill="#65d6a1"/>
+  </g>
+  <g transform="translate(1400 640)" fill="none" stroke="#e7444d" stroke-width="5"><path d="M0 0h80v-120h70m-150 120v95h100"/><circle cx="150" cy="-120" r="10" fill="#e7444d"/><circle cx="100" cy="95" r="10" fill="#e7444d"/></g>
+  <path d="M140 725h460" stroke="#7eb8f3" stroke-width="2" opacity=".35"/><text x="140" y="690" fill="#dcecff" font-family="Arial" font-size="22" font-weight="700" letter-spacing="5">DISEÑADO PARA CONFIAR</text>
+</svg>
